@@ -1,6 +1,6 @@
 To get started with the Koinx Dashboard:
 
-Clone this repository: git clone https://github.com/AryanMaurya001/koinx
+
 
 Install dependencies:
 
